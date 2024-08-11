@@ -301,11 +301,10 @@
   },
   "543423801791217694": {
     "joinedAt": "2024-07-29T08:54:57+02:00",
-    "voiceTime": 51831,
+    "voiceTime": 56328,
     "roleAssigned": true,
     "experience": 386.25,
-    "lastJoin": null,
-    "voiceJoin": "2024-08-11T17:17:42.096Z"
+    "lastJoin": null
   },
   "973172456233783316": {
     "joinedAt": "2024-02-08T13:54:06+01:00",
@@ -348,8 +347,9 @@
     "joinedAt": "2024-03-24T17:54:52+01:00",
     "voiceTime": 74492,
     "roleAssigned": false,
-    "experience": 99.25,
-    "lastJoin": 1723220887350
+    "experience": 102,
+    "lastJoin": 1723220887350,
+    "voiceJoin": "2024-08-11T18:27:11.178Z"
   },
   "296710662607077377": {
     "joinedAt": "2024-02-29T20:42:04+01:00",
@@ -984,7 +984,7 @@
     "joinedAt": "2024-02-02T23:57:11+01:00",
     "voiceTime": 111200,
     "roleAssigned": false,
-    "experience": 54,
+    "experience": 56.25,
     "lastJoin": null,
     "voiceJoin": "2024-08-11T13:15:02.597Z"
   },
@@ -1408,10 +1408,9 @@
   },
   "464516462128791563": {
     "joinedAt": "2024-08-04T09:08:54+02:00",
-    "voiceTime": 10408,
+    "voiceTime": 11707,
     "roleAssigned": true,
-    "experience": 16.5,
-    "voiceJoin": "2024-08-11T18:03:27.241Z"
+    "experience": 16.5
   },
   "648269470862671884": {
     "joinedAt": "2024-08-04T16:41:45+02:00",

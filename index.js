@@ -22,11 +22,11 @@ const { trackNewMembers, trackVoiceActivity: trackVoiceRoles, checkRoleDuration,
 const lfgCommand = require('./commands/lfg'); // Nouvelle commande LFG
 
 // Configuration des identifiants et des clés
-const token = 'MTE5Mzg0MTIwNjMzNDA3MDg2NA.G-BySg.3BkvHPhRrhPEJg9vhWl5x7LiYS9rGln4QHPS2I';
-const clientId = '1193841206334070864';
-const guildId = '1187791198237229077';
-const feedbackChannelId = '1247136293763158066';
-const openaiApiKey = 'sk-proj-rdH7tQKrJFKbktlfRqVlT3BlbkFJiu2Wu4LtBc7PMCrCpjdd';
+const token = 'TOKEN';
+const clientId = 'TOKEN';
+const guildId = 'TOKEN';
+const feedbackChannelId = 'TOKEN';
+const openaiApiKey = 'TOKEN';
 
 // Initialisation du client Discord
 const client = new Client({

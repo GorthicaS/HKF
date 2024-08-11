@@ -1,6 +1,6 @@
 const axios = require('axios');
-const allowedChannelId = '1248085835656593540';  // Remplacez par l'ID de votre canal autorisé
-const generalChannelId = '1189330115881074730';  // ID du canal général
+const allowedChannelId = 'TOKEN';  // Remplacez par l'ID de votre canal autorisé
+const generalChannelId = 'TOKEN';  // ID du canal général
 
 const chatGPTApiKey = 'sk-proj-rdH7tQKrJFKbktlfRqVlT3BlbkFJiu2Wu4LtBc7PMCrCpjdd'; // Remplacez par votre clé API OpenAI
 

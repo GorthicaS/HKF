@@ -1,7 +1,7 @@
 const { ChannelType } = require('discord.js');
 const axios = require('axios');
 
-const chatGPTApiKey = 'sk-proj-rdH7tQKrJFKbktlfRqVlT3BlbkFJiu2Wu4LtBc7PMCrCpjdd';  // Remplacez par votre clé API OpenAI
+const chatGPTApiKey = 'TOKEN';  // Remplacez par votre clé API OpenAI
 
 async function generateWelcomeMessage(username, nickname) {
     const prompt = `

@@ -5,7 +5,7 @@ const axios = require('axios');
 
 const trackingDataPath = './trackingData.json';
 const congratulationChannelId = '1192443559840849940'; // ID du canal pour les messages de félicitations
-const chatGPTApiKey = 'sk-proj-rdH7tQKrJFKbktlfRqVlT3BlbkFJiu2Wu4LtBc7PMCrCpjdd';  // Remplacez par votre clé API OpenAI
+const chatGPTApiKey = 'TOKEN';  // Remplacez par votre clé API OpenAI
 
 function loadTrackingData() {
     if (!fs.existsSync(trackingDataPath)) {
