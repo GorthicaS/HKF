@@ -1,0 +1,1476 @@
+{
+  "225716035490152448": {
+    "joinedAt": "2024-02-02T22:43:37+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "536302409220096041": {
+    "joinedAt": "2024-02-02T23:58:05+01:00",
+    "voiceTime": 9046,
+    "roleAssigned": false,
+    "experience": null,
+    "lastJoin": null
+  },
+  "504290152982773760": {
+    "joinedAt": "2024-03-27T20:59:25+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "319504615655866368": {
+    "joinedAt": "2024-02-22T21:12:16+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "693433293298991134": {
+    "joinedAt": "2024-01-14T10:17:05+01:00",
+    "voiceTime": 40184,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 8.5
+  },
+  "773263032725667862": {
+    "joinedAt": "2024-03-24T23:28:42+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "785942449884495922": {
+    "joinedAt": "2024-01-02T20:55:05+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "702842447662678037": {
+    "joinedAt": "2024-01-08T13:37:11+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "609408308003995736": {
+    "joinedAt": "2024-01-09T00:00:10+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "411944590183104522": {
+    "joinedAt": "2024-01-11T14:24:15+01:00",
+    "voiceTime": 75505,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 16
+  },
+  "696427309602832454": {
+    "joinedAt": "2023-12-28T17:49:24+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "344527965985439744": {
+    "joinedAt": "2024-04-28T22:57:14+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "302176754699862017": {
+    "joinedAt": "2024-01-19T21:13:21+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "270360473252134912": {
+    "joinedAt": "2023-12-28T01:33:49+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "312585302650650624": {
+    "joinedAt": "2023-12-24T13:11:43+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "582874187908120576": {
+    "joinedAt": "2024-03-30T20:53:52+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "712777670672384102": {
+    "joinedAt": "2024-01-23T16:59:58+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "371673958690324480": {
+    "joinedAt": "2024-07-14T12:50:22+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1197587078926586009": {
+    "joinedAt": "2024-01-18T18:08:15+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "637376078578712596": {
+    "joinedAt": "2023-12-28T09:02:37+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "242730576195354624": {
+    "joinedAt": "2024-01-20T20:37:04+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1029501396590006355": {
+    "joinedAt": "2024-03-04T19:09:48+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "704685000741617734": {
+    "joinedAt": "2024-07-06T05:39:18+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "214425692790718464": {
+    "joinedAt": "2024-07-28T23:03:27+02:00",
+    "voiceTime": 47407,
+    "roleAssigned": true,
+    "lastJoin": null,
+    "experience": 85.5
+  },
+  "161565995448664075": {
+    "joinedAt": "2024-02-22T13:47:56+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "676969590517137409": {
+    "joinedAt": "2024-01-07T23:37:22+01:00",
+    "voiceTime": 47802,
+    "roleAssigned": false,
+    "experience": 18.25,
+    "lastJoin": null
+  },
+  "1029948543437385768": {
+    "joinedAt": "2024-03-02T00:13:22+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "363998598649872385": {
+    "joinedAt": "2024-04-02T21:11:47+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "933458406034014268": {
+    "joinedAt": "2024-05-06T23:22:48+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "351461171141804036": {
+    "joinedAt": "2024-01-05T18:00:15+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "574923194515849236": {
+    "joinedAt": "2024-04-17T16:35:56+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "187550047628427264": {
+    "joinedAt": "2024-04-11T10:09:27+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "850885347041869844": {
+    "joinedAt": "2024-04-20T20:08:52+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "306054174200823808": {
+    "joinedAt": "2024-02-07T21:54:52+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "408509937593876480": {
+    "joinedAt": "2024-02-05T12:54:08+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "952155133473611786": {
+    "joinedAt": "2023-12-24T12:37:28+01:00",
+    "voiceTime": 274,
+    "roleAssigned": false,
+    "lastJoin": 1723150701992,
+    "experience": null,
+    "voiceJoin": "2024-08-08T20:58:21.993Z"
+  },
+  "753795015830011944": {
+    "joinedAt": "2024-01-23T21:22:56+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "611575389415800832": {
+    "joinedAt": "2024-01-03T15:43:55+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "477524709282676746": {
+    "joinedAt": "2024-02-29T22:59:46+01:00",
+    "voiceTime": 32886,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 1.25
+  },
+  "1193841206334070864": {
+    "joinedAt": "2024-01-08T10:01:32+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "691371426401484881": {
+    "joinedAt": "2023-12-24T15:28:13+01:00",
+    "voiceTime": 39952,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 0.5
+  },
+  "928449578972373043": {
+    "joinedAt": "2024-01-12T23:23:34+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "987833726614515782": {
+    "joinedAt": "2024-01-13T20:34:05+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "184405311681986560": {
+    "joinedAt": "2024-01-30T23:26:51+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "472689443568877584": {
+    "joinedAt": "2024-01-03T21:00:40+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1261749884176961629": {
+    "joinedAt": "2024-07-20T02:06:05+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "834080531716243507": {
+    "joinedAt": "2024-05-09T21:15:52+02:00",
+    "voiceTime": 19759,
+    "roleAssigned": false,
+    "experience": null,
+    "voiceJoin": "2024-08-11T17:38:46.651Z"
+  },
+  "1234182561467727893": {
+    "joinedAt": "2024-07-02T17:32:22+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "557628352828014614": {
+    "joinedAt": "2024-04-13T19:41:40+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "989268671279018045": {
+    "joinedAt": "2024-07-23T13:07:13+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "257591575868080128": {
+    "joinedAt": "2024-07-12T23:27:04+02:00",
+    "voiceTime": 12362,
+    "roleAssigned": false,
+    "experience": 11
+  },
+  "1078298898428342292": {
+    "joinedAt": "2024-04-07T07:44:46+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1031546235821228073": {
+    "joinedAt": "2024-01-04T22:21:06+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "178628864271056897": {
+    "joinedAt": "2024-06-22T21:55:24+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "368757519843328000": {
+    "joinedAt": "2024-02-27T13:22:46+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "318312854816161792": {
+    "joinedAt": "2024-07-03T10:53:59+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "543423801791217694": {
+    "joinedAt": "2024-07-29T08:54:57+02:00",
+    "voiceTime": 51831,
+    "roleAssigned": true,
+    "experience": 386.25,
+    "lastJoin": null,
+    "voiceJoin": "2024-08-11T17:17:42.096Z"
+  },
+  "973172456233783316": {
+    "joinedAt": "2024-02-08T13:54:06+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "578338574387118093": {
+    "joinedAt": "2024-07-14T21:37:19+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1070441240803410062": {
+    "joinedAt": "2024-02-24T13:17:09+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "861927272860352594": {
+    "joinedAt": "2024-06-16T19:44:06+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1028074596152393748": {
+    "joinedAt": "2024-03-03T16:50:21+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "342809482759372801": {
+    "joinedAt": "2024-07-29T17:31:45+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "480143622269042693": {
+    "joinedAt": "2024-06-03T21:10:04+02:00",
+    "voiceTime": 410,
+    "roleAssigned": false,
+    "experience": null,
+    "lastJoin": null
+  },
+  "465473039635841026": {
+    "joinedAt": "2024-03-24T17:54:52+01:00",
+    "voiceTime": 74492,
+    "roleAssigned": false,
+    "experience": 99.25,
+    "lastJoin": 1723220887350
+  },
+  "296710662607077377": {
+    "joinedAt": "2024-02-29T20:42:04+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "917386275751874561": {
+    "joinedAt": "2024-01-14T21:27:29+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "536061321397927936": {
+    "joinedAt": "2024-06-25T22:34:31+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "960259586294677525": {
+    "joinedAt": "2024-05-02T00:56:47+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1021842258808541185": {
+    "joinedAt": "2023-12-29T19:45:29+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "292764341411774464": {
+    "joinedAt": "2023-12-23T02:09:43+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "lastJoin": 1723220907694,
+    "voiceJoin": "2024-08-09T16:28:27.695Z"
+  },
+  "676757957492473896": {
+    "joinedAt": "2024-02-12T17:22:48+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "774639772299689984": {
+    "joinedAt": "2024-02-16T15:38:44+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "440229003865882655": {
+    "joinedAt": "2024-01-23T16:23:50+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "302050872383242240": {
+    "joinedAt": "2024-01-22T18:21:50+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "341443167284887562": {
+    "joinedAt": "2023-12-23T23:49:54+01:00",
+    "voiceTime": 6615,
+    "roleAssigned": false
+  },
+  "1091530601040990299": {
+    "joinedAt": "2024-01-23T18:32:42+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "196619286674931712": {
+    "joinedAt": "2024-04-19T23:04:27+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "422842289035935754": {
+    "joinedAt": "2024-01-13T21:26:03+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "319535627114905600": {
+    "joinedAt": "2024-07-13T23:13:04+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1207074465473630270": {
+    "joinedAt": "2024-04-22T00:08:09+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "614558836313030669": {
+    "joinedAt": "2024-01-20T00:03:23+01:00",
+    "voiceTime": 21546,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 1.5
+  },
+  "438367490075262986": {
+    "joinedAt": "2024-06-28T04:46:13+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "experience": null,
+    "voiceJoin": "2024-08-11T11:46:47.063Z"
+  },
+  "258308803181805568": {
+    "joinedAt": "2024-07-12T11:55:04+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "342365782799417344": {
+    "joinedAt": "2024-07-14T19:23:21+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "796047655297482812": {
+    "joinedAt": "2024-07-29T17:38:34+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "230763977926377472": {
+    "joinedAt": "2023-12-28T02:44:11+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "900042545445359667": {
+    "joinedAt": "2023-12-29T21:53:27+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "647538236725526549": {
+    "joinedAt": "2024-06-21T21:55:02+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "134500521158377472": {
+    "joinedAt": "2024-02-29T17:27:37+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "353650722665136131": {
+    "joinedAt": "2024-02-21T03:38:15+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "462308218920501249": {
+    "joinedAt": "2024-03-06T19:26:01+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1222314747182190703": {
+    "joinedAt": "2024-07-26T14:09:17+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "308693496225595393": {
+    "joinedAt": "2024-03-16T00:40:20+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "255003087100444674": {
+    "joinedAt": "2024-07-14T21:44:03+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "768226795295080449": {
+    "joinedAt": "2024-07-23T09:59:39+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "749737770687397902": {
+    "joinedAt": "2024-01-04T23:47:31+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "581796480294191114": {
+    "joinedAt": "2024-01-23T00:53:47+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "238780199997669378": {
+    "joinedAt": "2023-12-24T16:41:15+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "655888749649068072": {
+    "joinedAt": "2024-07-14T00:03:37+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "815236679677378570": {
+    "joinedAt": "2024-06-23T15:49:25+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1072042570835832902": {
+    "joinedAt": "2023-12-29T19:48:58+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "385766113587494914": {
+    "joinedAt": "2024-01-16T20:28:53+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "801577313548107806": {
+    "joinedAt": "2024-05-01T20:31:21+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "220249521354047500": {
+    "joinedAt": "2024-05-09T21:03:34+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "193729599086002176": {
+    "joinedAt": "2024-04-21T15:10:54+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "692204213769601085": {
+    "joinedAt": "2024-03-31T17:56:03+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "845288193568800778": {
+    "joinedAt": "2024-07-17T09:58:45+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "472911936951156740": {
+    "joinedAt": "2024-01-04T13:16:25+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "698565210046464102": {
+    "joinedAt": "2024-05-28T01:45:42+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "440534297330450443": {
+    "joinedAt": "2024-06-27T21:10:38+02:00",
+    "voiceTime": 7596,
+    "roleAssigned": false,
+    "lastJoin": null
+  },
+  "1199021464440021072": {
+    "joinedAt": "2024-01-22T17:07:16+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "300711023814508545": {
+    "joinedAt": "2024-07-29T17:20:52+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true,
+    "experience": 0.75
+  },
+  "579155972115660803": {
+    "joinedAt": "2024-06-03T17:50:46+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "240177917722624011": {
+    "joinedAt": "2024-05-05T14:06:14+02:00",
+    "voiceTime": 18708,
+    "roleAssigned": false,
+    "experience": 2.25,
+    "lastJoin": null
+  },
+  "668753350359121922": {
+    "joinedAt": "2024-06-29T21:10:07+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "745630001038360666": {
+    "joinedAt": "2024-01-01T07:48:45+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1011982141204205601": {
+    "joinedAt": "2024-07-21T19:02:43+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "230362238110662657": {
+    "joinedAt": "2024-07-13T22:38:48+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "754297397081014302": {
+    "joinedAt": "2024-04-29T18:53:44+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "690198554441941090": {
+    "joinedAt": "2024-03-07T19:04:12+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "560448079325691914": {
+    "joinedAt": "2024-01-01T04:00:12+01:00",
+    "voiceTime": 31592,
+    "roleAssigned": false,
+    "experience": 76.75,
+    "lastJoin": 1723219842593,
+    "voiceJoin": "2024-08-09T16:10:42.606Z"
+  },
+  "373812010837737473": {
+    "joinedAt": "2024-05-27T12:28:12+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "experience": null
+  },
+  "297396269394034690": {
+    "joinedAt": "2023-12-28T01:36:11+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "295138034985336833": {
+    "joinedAt": "2024-01-29T12:22:50+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "689890417394974734": {
+    "joinedAt": "2024-01-16T22:20:56+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "363068750112489474": {
+    "joinedAt": "2023-12-24T11:02:02+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "217679499838357504": {
+    "joinedAt": "2024-07-09T14:23:39+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "290493282629189634": {
+    "joinedAt": "2024-07-24T00:23:42+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "831954560850722897": {
+    "joinedAt": "2024-03-19T21:07:57+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1083042014058254378": {
+    "joinedAt": "2024-01-01T02:57:01+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "982008691861651456": {
+    "joinedAt": "2024-06-13T21:17:02+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1157384766950219807": {
+    "joinedAt": "2024-01-17T02:57:42+01:00",
+    "voiceTime": 15466,
+    "roleAssigned": false,
+    "lastJoin": null
+  },
+  "169449176210341888": {
+    "joinedAt": "2024-04-16T18:20:47+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1231914929083125821": {
+    "joinedAt": "2024-04-22T14:14:50+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1219097580873715842": {
+    "joinedAt": "2024-03-18T02:40:07+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "640234694075482142": {
+    "joinedAt": "2024-04-20T10:47:12+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "192646251269849089": {
+    "joinedAt": "2024-06-14T16:55:46+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "214363273867427840": {
+    "joinedAt": "2024-07-07T13:27:24+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "287946041507184640": {
+    "joinedAt": "2024-04-07T21:12:06+02:00",
+    "voiceTime": 51964,
+    "roleAssigned": false,
+    "experience": 29.25,
+    "lastJoin": null
+  },
+  "259428732543041536": {
+    "joinedAt": "2024-01-02T21:43:17+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "487209967074410506": {
+    "joinedAt": "2024-07-14T00:32:50+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "244486886431784960": {
+    "joinedAt": "2024-07-12T11:42:00+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1151524630566277140": {
+    "joinedAt": "2024-04-26T20:50:56+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "experience": null
+  },
+  "1226245305956306945": {
+    "joinedAt": "2024-04-06T22:01:03+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1131313198574866564": {
+    "joinedAt": "2024-01-29T02:56:29+01:00",
+    "voiceTime": 53904,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 29.25,
+    "voiceJoin": "2024-08-11T10:12:55.459Z"
+  },
+  "1092873083414659256": {
+    "joinedAt": "2024-07-12T21:20:38+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "689868111700295701": {
+    "joinedAt": "2024-02-06T14:07:18+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1105249261190381671": {
+    "joinedAt": "2024-06-22T01:17:20+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1196034047072288879": {
+    "joinedAt": "2024-01-14T12:46:40+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "706475708624666714": {
+    "joinedAt": "2024-02-03T21:02:35+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "326831576325292034": {
+    "joinedAt": "2024-03-01T21:17:16+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "281489895883800576": {
+    "joinedAt": "2024-07-27T15:50:47+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "417029177087361034": {
+    "joinedAt": "2024-01-13T21:16:01+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "918220194923544648": {
+    "joinedAt": "2024-01-16T21:01:42+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "436905152897744896": {
+    "joinedAt": "2024-01-16T17:33:22+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "460400896992346134": {
+    "joinedAt": "2024-07-17T10:07:48+02:00",
+    "voiceTime": 36971,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 45.5,
+    "voiceJoin": "2024-08-11T17:51:20.660Z"
+  },
+  "554693980840001536": {
+    "joinedAt": "2024-07-20T00:00:51+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1235234250786340874": {
+    "joinedAt": "2024-05-09T10:01:54+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "213328065357545473": {
+    "joinedAt": "2023-12-22T17:18:09+01:00",
+    "voiceTime": 84547,
+    "roleAssigned": false,
+    "experience": 166,
+    "lastJoin": 1723219048597
+  },
+  "282507477164097548": {
+    "joinedAt": "2024-06-06T18:20:21+02:00",
+    "voiceTime": 1075,
+    "roleAssigned": false,
+    "experience": null
+  },
+  "510016054391734273": {
+    "joinedAt": "2024-01-23T18:52:53+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1163150622535712860": {
+    "joinedAt": "2024-07-01T19:08:27+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "519163905369702402": {
+    "joinedAt": "2023-12-24T17:06:08+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "experience": null
+  },
+  "252888329555542016": {
+    "joinedAt": "2024-03-02T22:27:19+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "440533905062232084": {
+    "joinedAt": "2024-01-17T14:42:54+01:00",
+    "voiceTime": 1010,
+    "roleAssigned": false,
+    "lastJoin": null
+  },
+  "964207192691601438": {
+    "joinedAt": "2024-02-17T19:38:52+01:00",
+    "voiceTime": 98750,
+    "roleAssigned": false,
+    "experience": 315.5,
+    "lastJoin": 1723219044606,
+    "voiceJoin": "2024-08-11T17:51:18.187Z"
+  },
+  "589440933964152852": {
+    "joinedAt": "2024-04-04T20:36:21+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "309815441793220608": {
+    "joinedAt": "2024-03-02T22:48:04+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "831232071845937173": {
+    "joinedAt": "2023-12-24T13:32:22+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "339447070408835085": {
+    "joinedAt": "2024-02-23T00:04:36+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "278968440373379072": {
+    "joinedAt": "2024-07-22T14:44:37+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "983722287255654411": {
+    "joinedAt": "2024-07-26T12:49:16+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1020080249008050197": {
+    "joinedAt": "2024-01-01T14:45:53+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1012467459716038696": {
+    "joinedAt": "2023-12-29T19:37:46+01:00",
+    "voiceTime": 118925,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 264.75,
+    "voiceJoin": "2024-08-11T11:32:21.252Z"
+  },
+  "807508048611508235": {
+    "joinedAt": "2024-06-14T20:54:29+02:00",
+    "voiceTime": 31514,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 19.5
+  },
+  "690844152237129749": {
+    "joinedAt": "2024-02-08T22:24:07+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "465562347302289448": {
+    "joinedAt": "2024-05-21T11:16:27+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1234056305514119199": {
+    "joinedAt": "2024-04-30T23:04:19+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "964089031874973799": {
+    "joinedAt": "2024-07-12T15:22:32+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "239433000939421709": {
+    "joinedAt": "2023-12-28T20:36:35+01:00",
+    "voiceTime": 96206,
+    "roleAssigned": false,
+    "lastJoin": 1723219079368,
+    "experience": 211.75
+  },
+  "197142778424197120": {
+    "joinedAt": "2024-01-03T20:58:22+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "279268495269822464": {
+    "joinedAt": "2024-07-14T21:43:52+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "504005515332943873": {
+    "joinedAt": "2024-02-02T23:57:11+01:00",
+    "voiceTime": 111200,
+    "roleAssigned": false,
+    "experience": 54,
+    "lastJoin": null,
+    "voiceJoin": "2024-08-11T13:15:02.597Z"
+  },
+  "759812111521808394": {
+    "joinedAt": "2024-07-13T22:59:52+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "761227359558172763": {
+    "joinedAt": "2024-07-14T00:11:37+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1126317160076148777": {
+    "joinedAt": "2024-05-30T15:55:06+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "921522058389762048": {
+    "joinedAt": "2024-07-23T01:57:46+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "423518641221271552": {
+    "joinedAt": "2024-01-13T07:49:44+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1256931240267874376": {
+    "joinedAt": "2024-06-30T13:23:19+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1166726396278751256": {
+    "joinedAt": "2024-05-06T18:45:58+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "512752129341915156": {
+    "joinedAt": "2024-01-08T01:05:25+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "335490855261700096": {
+    "joinedAt": "2024-04-23T20:16:06+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "537334794573578241": {
+    "joinedAt": "2024-07-21T03:41:41+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "690484285223993344": {
+    "joinedAt": "2024-03-02T14:43:41+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "792413054993563679": {
+    "joinedAt": "2024-01-23T00:44:51+01:00",
+    "voiceTime": 155595,
+    "roleAssigned": false,
+    "experience": 65.75,
+    "lastJoin": null,
+    "voiceJoin": "2024-08-11T17:38:55.171Z"
+  },
+  "832328774740607077": {
+    "joinedAt": "2024-04-25T11:13:54+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1034400180079968256": {
+    "joinedAt": "2024-05-11T13:14:25+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1225845815323525171": {
+    "joinedAt": "2024-04-16T07:59:32+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1191328062671958087": {
+    "joinedAt": "2024-01-01T11:37:55+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1228775426839547916": {
+    "joinedAt": "2024-07-06T02:41:56+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "269605586457329666": {
+    "joinedAt": "2024-06-14T13:33:09+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "697837821179985960": {
+    "joinedAt": "2024-01-07T21:33:01+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "414561246504026112": {
+    "joinedAt": "2024-07-21T03:40:32+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "815695639677239316": {
+    "joinedAt": "2024-06-30T07:36:55+02:00",
+    "voiceTime": 60346,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": 62
+  },
+  "699717140038680738": {
+    "joinedAt": "2024-07-02T17:40:58+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1097192654778937365": {
+    "joinedAt": "2024-01-23T18:37:42+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "653296041201893382": {
+    "joinedAt": "2024-07-13T22:01:41+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1097972746719350784": {
+    "joinedAt": "2024-05-28T13:28:04+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1058047251643125880": {
+    "joinedAt": "2024-07-22T14:45:25+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "485467228742090762": {
+    "joinedAt": "2024-07-02T10:56:00+02:00",
+    "voiceTime": 91653,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": null,
+    "voiceJoin": "2024-08-11T18:03:27.868Z"
+  },
+  "894682230243360798": {
+    "joinedAt": "2024-05-18T01:21:12+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1157348901939064946": {
+    "joinedAt": "2024-07-02T18:01:12+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1210669083041988660": {
+    "joinedAt": "2024-07-13T23:50:34+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1223618786695974952": {
+    "joinedAt": "2024-03-30T16:07:42+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "574668313121259529": {
+    "joinedAt": "2024-01-14T22:28:40+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "451379187031343104": {
+    "joinedAt": "2024-01-08T18:23:12+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "962375098554253372": {
+    "joinedAt": "2024-01-20T00:03:39+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "190574376351956992": {
+    "joinedAt": "2024-06-06T22:14:15+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "331011676885352449": {
+    "joinedAt": "2024-05-18T21:51:42+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "939222866010964029": {
+    "joinedAt": "2024-07-05T21:15:58+02:00",
+    "voiceTime": 70,
+    "roleAssigned": false,
+    "lastJoin": null
+  },
+  "840544574267195423": {
+    "joinedAt": "2024-06-29T01:00:05+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "541713738320052249": {
+    "joinedAt": "2024-05-08T21:07:12+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "277482086397378560": {
+    "joinedAt": "2024-05-13T11:55:07+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "305756730816593921": {
+    "joinedAt": "2024-02-27T20:07:11+01:00",
+    "voiceTime": 8734,
+    "roleAssigned": false,
+    "experience": null,
+    "lastJoin": null
+  },
+  "988016191777947708": {
+    "joinedAt": "2024-05-03T17:44:43+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "553701275573682186": {
+    "joinedAt": "2024-04-18T19:52:09+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "745683646429790311": {
+    "joinedAt": "2024-01-23T18:38:49+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "496057904458366979": {
+    "joinedAt": "2024-01-04T17:45:25+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "937760560647401544": {
+    "joinedAt": "2024-07-19T20:28:54+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "427103316028162048": {
+    "joinedAt": "2024-06-27T16:27:03+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false,
+    "experience": null
+  },
+  "1245585911815602277": {
+    "joinedAt": "2024-06-21T17:29:21+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1041844628422397972": {
+    "joinedAt": "2024-01-20T19:14:27+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1105505901063962758": {
+    "joinedAt": "2024-01-15T22:43:06+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "724319100175777812": {
+    "joinedAt": "2024-01-23T18:41:35+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "904729035479855194": {
+    "joinedAt": "2024-07-28T19:00:20+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "746118144715653190": {
+    "joinedAt": "2024-01-23T18:34:05+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "433298320778330134": {
+    "joinedAt": "2024-07-25T20:25:10+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "191704485918277635": {
+    "joinedAt": "2024-01-29T23:55:55+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "928376396554833970": {
+    "joinedAt": "2024-02-21T21:33:05+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1080129650145103962": {
+    "joinedAt": "2024-07-07T23:09:45+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "276039865982779393": {
+    "joinedAt": "2024-03-27T19:05:57+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "285067184403906561": {
+    "joinedAt": "2024-04-13T22:35:14+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "531975127311581194": {
+    "joinedAt": "2024-01-02T22:21:03+01:00",
+    "voiceTime": 20132,
+    "roleAssigned": false,
+    "lastJoin": null,
+    "experience": null
+  },
+  "474332971097128961": {
+    "joinedAt": "2024-02-10T09:58:40+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "703582016188317726": {
+    "joinedAt": "2023-12-28T01:37:08+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "462835186917179424": {
+    "joinedAt": "2024-01-22T17:11:12+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "508402148531240980": {
+    "joinedAt": "2024-07-12T13:20:33+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "580824185757106196": {
+    "joinedAt": "2024-07-14T20:06:31+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "509038603326717955": {
+    "joinedAt": "2024-04-21T15:44:59+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "261483966542905345": {
+    "joinedAt": "2024-01-24T20:56:09+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "417809126920290322": {
+    "joinedAt": "2024-02-02T23:58:13+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "712404775513358481": {
+    "joinedAt": "2024-01-23T18:39:38+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "806569122363211776": {
+    "joinedAt": "2024-04-20T14:23:23+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "792511024473178162": {
+    "joinedAt": "2024-04-22T17:07:57+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1186753117539278948": {
+    "joinedAt": "2024-01-20T00:05:01+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "689451626335174679": {
+    "joinedAt": "2024-07-14T01:41:09+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "828357804208422953": {
+    "joinedAt": "2024-01-08T18:49:57+01:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "777945304334073870": {
+    "joinedAt": "2024-07-28T21:36:53+02:00",
+    "voiceTime": 14338,
+    "roleAssigned": true,
+    "lastJoin": null,
+    "experience": 0.25
+  },
+  "1122606068778946570": {
+    "joinedAt": "2024-07-19T21:02:30+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "477449246249975819": {
+    "joinedAt": "2024-07-19T23:20:04+02:00",
+    "voiceTime": 0,
+    "roleAssigned": false
+  },
+  "1185046205294706688": {
+    "joinedAt": "2024-07-30T21:19:17+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true,
+    "experience": null
+  },
+  "1260709635690729543": {
+    "joinedAt": "2024-07-31T23:08:25+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "792117070955020289": {
+    "joinedAt": "2024-08-01T20:06:40+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true,
+    "experience": 1
+  },
+  "464516462128791563": {
+    "joinedAt": "2024-08-04T09:08:54+02:00",
+    "voiceTime": 10408,
+    "roleAssigned": true,
+    "experience": 16.5,
+    "voiceJoin": "2024-08-11T18:03:27.241Z"
+  },
+  "648269470862671884": {
+    "joinedAt": "2024-08-04T16:41:45+02:00",
+    "voiceTime": 6977,
+    "roleAssigned": true,
+    "experience": null
+  },
+  "436951448572395521": {
+    "joinedAt": "2024-08-04T16:11:26+02:00",
+    "voiceTime": 60167,
+    "roleAssigned": true,
+    "lastJoin": null,
+    "experience": 9.5
+  },
+  "623205441610055681": {
+    "joinedAt": "2024-08-04T12:45:48+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "785213337234309132": {
+    "joinedAt": "2024-08-02T21:59:17+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "213780710580813826": {
+    "joinedAt": "2024-08-05T22:17:33+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "689492762399473680": {
+    "joinedAt": "2024-08-05T20:23:56+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "1165382677768188057": {
+    "joinedAt": "2024-08-04T22:34:23+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "166895291138703360": {
+    "joinedAt": "2024-08-05T22:22:40+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true
+  },
+  "704498713422331956": {
+    "joinedAt": "2024-08-08T02:33:14+02:00",
+    "voiceTime": 0,
+    "roleAssigned": true,
+    "experience": null
+  },
+  "811001773795442718": {
+    "joinedAt": "2024-08-09T01:08:30+02:00",
+    "voiceTime": 7460,
+    "roleAssigned": true,
+    "experience": null,
+    "lastJoin": null
+  },
+  "279287054498791426": {
+    "experience": 0.25,
+    "niveau": 1
+  }
+}

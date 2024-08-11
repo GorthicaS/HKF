@@ -1,0 +1,338 @@
+{
+  "users": {
+    "213328065357545473": {
+      "experience": 19.5,
+      "niveau": 5
+    },
+    "305756730816593921": {
+      "experience": 20.5,
+      "niveau": 2
+    },
+    "792413054993563679": {
+      "experience": 69.75,
+      "niveau": 2
+    },
+    "1012467459716038696": {
+      "experience": 161.5,
+      "niveau": 2
+    },
+    "239433000939421709": {
+      "experience": 193.75,
+      "niveau": 2
+    },
+    "964207192691601438": {
+      "experience": 188.25,
+      "niveau": 4
+    },
+    "560448079325691914": {
+      "experience": 26.25,
+      "niveau": 2
+    },
+    "287946041507184640": {
+      "experience": 23.75,
+      "niveau": 1
+    },
+    "465473039635841026": {
+      "experience": 70.25,
+      "niveau": 1
+    },
+    "592804722981863439": {
+      "experience": 68,
+      "niveau": 2
+    },
+    "477524709282676746": {
+      "experience": 9.75,
+      "niveau": 1
+    },
+    "240177917722624011": {
+      "experience": 50,
+      "niveau": 1
+    },
+    "292764341411774464": {
+      "experience": 5.5,
+      "niveau": 1
+    },
+    "691371426401484881": {
+      "experience": 18.5,
+      "niveau": 1
+    },
+    "411944590183104522": {
+      "experience": 15.25,
+      "niveau": 1
+    },
+    "774639772299689984": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "504005515332943873": {
+      "experience": 75.5,
+      "niveau": 1
+    },
+    "480143622269042693": {
+      "experience": 25,
+      "niveau": 1
+    },
+    "807508048611508235": {
+      "experience": 8,
+      "niveau": 1
+    },
+    "197142778424197120": {
+      "experience": 1.25,
+      "niveau": 1
+    },
+    "647538236725526549": {
+      "experience": 87,
+      "niveau": 1
+    },
+    "488756337929355265": {
+      "experience": 2.75,
+      "niveau": 1
+    },
+    "806569122363211776": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "676969590517137409": {
+      "experience": 31.25,
+      "niveau": 1
+    },
+    "712777670672384102": {
+      "experience": 2.5,
+      "niveau": 1
+    },
+    "341443167284887562": {
+      "experience": 69,
+      "niveau": 1
+    },
+    "230763977926377472": {
+      "experience": 26.5,
+      "niveau": 1
+    },
+    "658726931365232685": {
+      "experience": 10.5,
+      "niveau": 2
+    },
+    "745630001038360666": {
+      "experience": 47,
+      "niveau": 2
+    },
+    "1105249261190381671": {
+      "experience": 4.5,
+      "niveau": 1
+    },
+    "1250802099952812180": {
+      "experience": 55.75,
+      "niveau": 1
+    },
+    "861927272860352594": {
+      "experience": 1,
+      "niveau": 1
+    },
+    "462835186917179424": {
+      "experience": 1,
+      "niveau": 1
+    },
+    "282507477164097548": {
+      "experience": 3,
+      "niveau": 1
+    },
+    "178628864271056897": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "693433293298991134": {
+      "experience": 8.25,
+      "niveau": 1
+    },
+    "519163905369702402": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "306054174200823808": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1083042014058254378": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "252888329555542016": {
+      "experience": 1.75,
+      "niveau": 1
+    },
+    "417809126920290322": {
+      "experience": 7.75,
+      "niveau": 1
+    },
+    "536302409220096041": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "373812010837737473": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "536061321397927936": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "252860543436718080": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1131313198574866564": {
+      "experience": 37.5,
+      "niveau": 1
+    },
+    "116863803907375107": {
+      "experience": 3.5,
+      "niveau": 1
+    },
+    "485467228742090762": {
+      "experience": 92.5,
+      "niveau": 1
+    },
+    "1234182561467727893": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "699717140038680738": {
+      "experience": 1.5,
+      "niveau": 1
+    },
+    "1157348901939064946": {
+      "experience": 4.25,
+      "niveau": 1
+    },
+    "427103316028162048": {
+      "experience": 2.5,
+      "niveau": 1
+    },
+    "541713738320052249": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1157384766950219807": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1238619319307599883": {
+      "experience": 38,
+      "niveau": 1
+    },
+    "1163150622535712860": {
+      "experience": 0.75,
+      "niveau": 1
+    },
+    "840544574267195423": {
+      "experience": 7,
+      "niveau": 1
+    },
+    "815695639677239316": {
+      "experience": 4.75,
+      "niveau": 1
+    },
+    "952155133473611786": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "349734110270586880": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1080129650145103962": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "217679499838357504": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "247038580168458241": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "1151524630566277140": {
+      "experience": 5,
+      "niveau": 1
+    },
+    "496057904458366979": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "342365782799417344": {
+      "experience": 0.25,
+      "niveau": 1
+    },
+    "257591575868080128": {
+      "experience": 3.75,
+      "niveau": 1
+    },
+    "580824185757106196": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "614558836313030669": {
+      "experience": 1,
+      "niveau": 1
+    },
+    "578338574387118093": {
+      "experience": 0.75,
+      "niveau": 1
+    },
+    "279268495269822464": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "255003087100444674": {
+      "experience": 0.5,
+      "niveau": 1
+    },
+    "319535627114905600": {
+      "experience": 0.25,
+      "niveau": 1
+    }
+  },
+  "ranks": [
+    {
+      "level": 1,
+      "role": "Nouveau"
+    },
+    {
+      "level": 5,
+      "role": "Apprenti"
+    },
+    {
+      "level": 10,
+      "role": "Killer du spam"
+    },
+    {
+      "level": 15,
+      "role": "Spammer confirmé"
+    },
+    {
+      "level": 20,
+      "role": "Master du spam"
+    },
+    {
+      "level": 25,
+      "role": "Seigneur du spam"
+    },
+    {
+      "level": 30,
+      "role": "Empereur du spam"
+    },
+    {
+      "level": 35,
+      "role": "Dieu du spam"
+    },
+    {
+      "level": 40,
+      "role": "Légende du spam"
+    },
+    {
+      "level": 45,
+      "role": "Immortel du spam"
+    }
+  ]
+}
